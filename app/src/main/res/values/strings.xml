@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pascual_CourseProject_MOB2</string>
+    <string name="hint_username" />
+    <string name="hint_password" />
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+</resources>
